@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Gerador_de_Senhas.MainPage"
+             Title="Gerador de Senhas"
+             BackgroundColor="#70787b">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Gerador de Senhas" FontSize="Title" TextColor="WhiteSmoke"
+           HorizontalOptions="Center"
+           VerticalOptions="Start" />
+        <Entry x:Name="tamanho" PlaceholderColor="GhostWhite" Placeholder="Senha com Quantos dígitos?" MaxLength="2" Keyboard="Numeric"/>
+        <StackLayout Orientation="Horizontal" Spacing="12" Padding="10">
+            <CheckBox CheckedChanged="UpperToo" x:Name="cb_upper" Color="DarkGray"/>
+            <Label Text="Maiúsculas" VerticalOptions="Center" TextColor="WhiteSmoke"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Spacing="12" Padding="10">
+            <CheckBox CheckedChanged="NumbersToo" x:Name="cb_numbers" Color="DarkGray"/>
+            <Label Text="Números" VerticalOptions="Center" TextColor="WhiteSmoke"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Spacing="12" Padding="10">
+            <CheckBox CheckedChanged="SymbolsToo" x:Name="cb_symbols" Color="DarkGray"/>
+            <Label Text="Símbolos" VerticalOptions="Center" TextColor="WhiteSmoke"/>
+        </StackLayout>
+        <Button x:Name="btnSenha" Text="Gerar Senha" TextColor="WhiteSmoke" HorizontalOptions="End" Clicked="Btn_clicked" BackgroundColor="DarkGray"/>
+        <Label x:Name="lblsenha" HorizontalOptions="Center" IsVisible="False" TextColor="WhiteSmoke" Margin="25"/>
+        <Button x:Name="btnCopy" Text="Copiar para área de transferência" TextColor="WhiteSmoke" Clicked="Btn_copy" IsVisible="False" BackgroundColor="DarkGray"/>
+
+    </StackLayout>
+
+</ContentPage>

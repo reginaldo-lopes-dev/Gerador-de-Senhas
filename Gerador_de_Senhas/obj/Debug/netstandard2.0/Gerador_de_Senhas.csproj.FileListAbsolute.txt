@@ -1,0 +1,13 @@
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\Gerador_de_Senhas.csprojAssemblyReference.cache
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\Gerador_de_Senhas.AssemblyInfoInputs.cache
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\Gerador_de_Senhas.AssemblyInfo.cs
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\bin\Debug\netstandard2.0\Gerador_de_Senhas.deps.json
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\bin\Debug\netstandard2.0\Gerador_de_Senhas.dll
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\bin\Debug\netstandard2.0\ref\Gerador_de_Senhas.dll
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\bin\Debug\netstandard2.0\Gerador_de_Senhas.pdb
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\Gerador_de_Senhas.dll
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\ref\Gerador_de_Senhas.dll
+C:\Users\REGINALDOLOPESSILVAJ\source\repos\Gerador_de_Senhas\Gerador_de_Senhas\obj\Debug\netstandard2.0\Gerador_de_Senhas.pdb
