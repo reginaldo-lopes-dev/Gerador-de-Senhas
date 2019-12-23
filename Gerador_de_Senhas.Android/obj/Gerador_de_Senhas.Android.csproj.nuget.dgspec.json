@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas.Android\\Gerador_de_Senhas.Android.csproj": {}
+    "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas.Android\\Gerador_de_Senhas.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas.Android\\Gerador_de_Senhas.Android.csproj": {
+    "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas.Android\\Gerador_de_Senhas.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas.Android\\Gerador_de_Senhas.Android.csproj",
+        "projectUniqueName": "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas.Android\\Gerador_de_Senhas.Android.csproj",
         "projectName": "Gerador_de_Senhas.Android",
-        "projectPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas.Android\\Gerador_de_Senhas.Android.csproj",
+        "projectPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas.Android\\Gerador_de_Senhas.Android.csproj",
         "packagesPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas.Android\\obj\\",
+        "outputPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj": {
-                "projectPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj"
+              "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj": {
+                "projectPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj": {
+    "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj",
+        "projectUniqueName": "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj",
         "projectName": "Gerador_de_Senhas",
-        "projectPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj",
+        "projectPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas\\Gerador_de_Senhas.csproj",
         "packagesPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\source\\repos\\Gerador_de_Senhas\\Gerador_de_Senhas\\obj\\",
+        "outputPath": "C:\\Users\\REGINALDOLOPESSILVAJ\\Desktop\\Gerador-de-Senhas\\Gerador_de_Senhas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
